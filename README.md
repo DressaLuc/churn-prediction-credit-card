@@ -40,12 +40,6 @@ A análise identificou padrões claros que permitem ações preventivas imediata
 
 Gostou desta análise? Vamos nos conectar para trocar experiências sobre Ciência de Dados e Estratégia!
 
----
-
-## 📬 Contato
-
-Gostou desta análise? Vamos nos conectar para trocar experiências sobre Ciência de Dados e Estratégia!
-
 <p align="left">
   <a href="https://www.linkedin.com/in/andressa-correa-dados" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
