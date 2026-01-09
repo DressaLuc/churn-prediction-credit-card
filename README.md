@@ -15,8 +15,6 @@ Analisar o comportamento da base de clientes para entender os gatilhos do Churn 
 
 ## 🏗️ Estrutura do Projeto
 
-## 🏗️ Estrutura do Projeto
-
 ```diff
 + churn-prediction-credit-card/
 + ├── notebooks/
