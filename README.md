@@ -22,7 +22,7 @@ churn-prediction-credit-card/
 └── README.md
 
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Python 3.10
 
 Pandas (Manipulação e tratamento de dados)
