@@ -40,12 +40,14 @@ A análise identificou padrões claros que permitem ações preventivas imediata
 
 Gostou desta análise? Vamos nos conectar para trocar experiências sobre Ciência de Dados e Estratégia!
 
+## 📬 Contato
+
 <p align="left">
-  <a href="SEU_LINK_DO_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="www.linkedin.com/andressa-correa-dados" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
+  <a href="mailto:dressantoscorrea@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
   </a>
 </p>
 
