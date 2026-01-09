@@ -15,11 +15,11 @@ Analisar o comportamento da base de clientes para entender os gatilhos do Churn 
 
 ## 🏗️ Estrutura do Projeto
 
-```text
-                          churn-prediction-credit-card/
+```markdown
+churn-prediction-credit-card/
 ├── notebooks/
-│   └── churn_prediction_credit_card.ipynb   # Estudo exploratório e modelagem
-└── README.md                                # Documentação e insights estratégicos
+│   └── churn_prediction_credit_card.ipynb
+└── README.md
 
 
 🛠️ Tecnologias Utilizadas
