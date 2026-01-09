@@ -13,7 +13,7 @@ Analisar o comportamento da base de clientes para entender os gatilhos do Churn 
 
 ---
 
-## 🏗️ Estrutura do Projeto
+# 🏗️ Estrutura do Projeto
 
 ```markdown
 churn-prediction-credit-card/
@@ -47,14 +47,3 @@ Plano de Resgate Preventivo: Criar um alerta automático para clientes que reduz
 
 Otimização do Suporte: Focar o time de atendimento na resolução definitiva de problemas no primeiro contato.
 
----
-## 📬 Contato
-
-<p align="left">
-  <a href="SEU_LINK_LINKEDIN_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank">
-  </a>
-</p>
