@@ -50,9 +50,6 @@ Gostou desta análise? Vamos nos conectar para trocar experiências sobre Ciênc
   <a href="https://www.linkedin.com/in/andressa-correa-dados" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:dressantoscorrea@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-c14438?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
 </p>
 
 
